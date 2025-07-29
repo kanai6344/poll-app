@@ -32,3 +32,10 @@ A full-stack MERN application for creating and voting on polls with real-time re
 - Node.js (v14+)
 - MongoDB (local or Atlas)
 - Git
+
+### Installation
+
+1. Clone the repo:
+```bash
+git clone https://github.com/kanai6344/poll-app.git
+cd polling-app
