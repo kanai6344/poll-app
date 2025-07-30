@@ -55,3 +55,16 @@ MONGODB_URI=mongodb://localhost:27017/polling-app
 PORT=5000
 CLIENT_URL=http://localhost:3000
 ```
+3. Set up the frontend:
+
+```bash
+cd ../client
+npm install
+touch .env
+```
+
+Add the following to your .env file:
+
+```bash
+REACT_APP_API_URL=http://localhost:5000
+```
