@@ -39,6 +39,7 @@ A full-stack MERN application for creating and voting on polls with real-time re
 ```bash
 git clone https://github.com/kanai6344/poll-app.git
 cd polling-app
+```
 
 2. Set up the backend:
 
