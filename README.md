@@ -39,3 +39,18 @@ A full-stack MERN application for creating and voting on polls with real-time re
 ```bash
 git clone https://github.com/kanai6344/poll-app.git
 cd polling-app
+
+2. Set up the backend:
+
+```bash
+cd server
+npm install
+touch .env
+```
+Add the following to your .env file:
+
+```bash
+MONGODB_URI=mongodb://localhost:27017/polling-app
+PORT=5000
+CLIENT_URL=http://localhost:3000
+```
