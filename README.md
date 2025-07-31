@@ -75,8 +75,9 @@ REACT_APP_API_URL=http://localhost:5000
 cd server
 npm run dev
 ```
-
 # In another terminal (frontend)
 ```bash
 cd client
 npm start
+```
+The app should now be running at http://localhost:3000
