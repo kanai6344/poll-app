@@ -17,14 +17,12 @@ A full-stack MERN application for creating and voting on polls with real-time re
 - React.js
 - React Router
 - Chart.js
-- Socket.io Client
 - Tailwind CSS
 
 **Backend:**
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
-- Socket.io
 
 ## 🚀 Quick Start
 
