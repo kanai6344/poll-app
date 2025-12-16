@@ -26,10 +26,6 @@ A full-stack MERN application for creating and voting on polls with real-time re
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Node.js (v14+)
-- MongoDB (local or Atlas)
-- Git
 
 ### Installation
 
